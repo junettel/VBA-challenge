@@ -1,5 +1,5 @@
 # VBA-challenge
-VBA Homework - The VBA of Wall Street
+The VBA of Wall Street
 
 ## Instructions
 
